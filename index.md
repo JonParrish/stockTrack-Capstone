@@ -56,7 +56,11 @@
     due to the free price tag of the app and no communicaiton from the app itself to any third-party other then 
     then FinnHub API, making it remarkable secure. 
     
-sadddddddddddddddddddddddddd     
+### Sitemap: 
+    A Sitemap showing the simplicity of the applications design:
+![Image of Sitemap](https://github.com/JonParrish/stockTrack-Capstone/blob/secondary/Images%20for%20GIT%20Pages/sitemap.PNG?raw=true "Sitemap")
+sss     
+      
 ## Risks and Challenges:
 
 ### Risks:
