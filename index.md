@@ -67,7 +67,9 @@
 ![Image of Flowchart](https://github.com/JonParrish/stockTrack-Capstone/blob/secondary/Images%20for%20GIT%20Pages/flowchart.PNG?raw=true "Flowchart")
 
 ### Code for "Custom Alert Component":
-        This "Custom Alert Component" was a specific design choice that allowed the user to enter in a stock's information from a pop-up alert; something the defauly packages of React Native does not contain. This code is for the unique and self-built component used throughout the application: 
+        This "Custom Alert Component" was a specific design choice that allowed the user to enter in a stock's 
+        information from a pop-up alert; something the defauly packages of React Native does not contain. This 
+        code is for the unique and self-built component used throughout the application: 
 
 ![Image of CustomALertComponent Code](https://github.com/JonParrish/stockTrack-Capstone/blob/secondary/Images%20for%20GIT%20Pages/customalert%20code.PNG?raw=true "CustomAlertComponent Code")
    
