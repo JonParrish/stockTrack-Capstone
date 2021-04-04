@@ -79,6 +79,7 @@
  ### Physical Solution Diagram
 ![Image of Physical Diagram](https://github.com/JonParrish/stockTrack-Capstone/blob/secondary/Images%20for%20GIT%20Pages/physical%20solution.png?raw=true Physical Diagram")
       
+      
 ## Risks and Challenges:
 
 ### Risks:
