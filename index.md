@@ -73,10 +73,12 @@
 
 ![Image of CustomALertComponent Code](https://github.com/JonParrish/stockTrack-Capstone/blob/secondary/Images%20for%20GIT%20Pages/customalert%20code.PNG?raw=true "CustomAlertComponent Code")
 
-### Logical Solution Diagram
+### Logical Solution Diagram:
+
 ![Image of Logical Diagram](https://github.com/JonParrish/stockTrack-Capstone/blob/secondary/Images%20for%20GIT%20Pages/logical%20solution%20diagram.png?raw=true "Logical Diagram")
 
-### Physical Solution Diagram
+### Physical Solution Diagram:
+
 ![Image of Physical Diagram](https://github.com/JonParrish/stockTrack-Capstone/blob/secondary/Images%20for%20GIT%20Pages/physical%20solution.png?raw=true "Physical Diagram")
       
       
